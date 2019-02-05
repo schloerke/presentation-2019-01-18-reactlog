@@ -11,4 +11,7 @@ Jan 18, 2019<br/>
 rstudio::conf2019<br/>
 Austin, TX
 
-[Video Recording](https://resources.rstudio.com/rstudio-conf-2019/reactlog-2-0-debugging-the-state-of-shiny)
+### Links
+
+* Presentation Recording: https://resources.rstudio.com/rstudio-conf-2019/reactlog-2-0-debugging-the-state-of-shiny
+* Repo: https://github.com/rstudio/reactlog
